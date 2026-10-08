@@ -430,6 +430,463 @@
           "total_rub": 1677999
         }
       ]
+    },
+    {
+      "package_id": "daily-2026-10-09-1200-crossover-3m-vk-story-01",
+      "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 1,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "3294768fe505b1f001d2f9ee82b2322e7f952e95cb7583a0161fcb0a59af446e"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Пять бензиновых кроссоверов из Китая: сравним полную цену, возраст и пробег.",
+        "Кроссоверы до 3 млн ₽",
+        "5 разных моделей из каталога ZMA",
+        "Напишите КРОССОВЕР, бюджет и город в сообщения сообщества",
+        "1/8",
+        "Расчёт сайта на 08.10.2026; актуальная цена — перед заказом"
+      ],
+      "scheduled_at": "2026-10-09T10:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/d09c4945cfd69ad7be61e349377e7deb8febc5c7/covers/089d63797cfb501ead33d739174b464749af9b7b09b762b9ce59650f98b4ac48.jpg",
+        "sha256": "089d63797cfb501ead33d739174b464749af9b7b09b762b9ce59650f98b4ac48",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122851",
+          "year": 2023,
+          "mileage_km": 18000,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2538815
+        },
+        {
+          "market": "china",
+          "source_id": "60122714",
+          "year": 2023,
+          "mileage_km": 70000,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2875155
+        },
+        {
+          "market": "china",
+          "source_id": "60122716",
+          "year": 2019,
+          "mileage_km": 47800,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2214246
+        },
+        {
+          "market": "china",
+          "source_id": "60122717",
+          "year": 2022,
+          "mileage_km": 26500,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 1684537
+        },
+        {
+          "market": "china",
+          "source_id": "60122728",
+          "year": 2022,
+          "mileage_km": 14000,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2045373
+        }
+      ],
+      "dm_keyword": "КРОССОВЕР"
+    },
+    {
+      "package_id": "daily-2026-10-09-1200-crossover-3m-vk-story-02",
+      "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 2,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "3294768fe505b1f001d2f9ee82b2322e7f952e95cb7583a0161fcb0a59af446e"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Что для вас важнее в ежедневной машине: бюджет, свежий год или меньший пробег?",
+        "Сравним цену, год, пробег и кузов",
+        "Какие параметры для вас главные?",
+        "Напишите в ответ, что выбрали бы для ежедневных поездок.",
+        "2/8",
+        "Расчёт сайта на 08.10.2026; актуальная цена — перед заказом",
+        "Напишите КРОССОВЕР, бюджет и город в сообщения сообщества"
+      ],
+      "scheduled_at": "2026-10-09T10:15:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/d09c4945cfd69ad7be61e349377e7deb8febc5c7/covers/87d13882edd8d338cc5f62c09c347d35265ebd1ff888fffdae7462a7729ef8b2.jpg",
+        "sha256": "87d13882edd8d338cc5f62c09c347d35265ebd1ff888fffdae7462a7729ef8b2",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122851",
+          "year": 2023,
+          "mileage_km": 18000,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2538815
+        },
+        {
+          "market": "china",
+          "source_id": "60122714",
+          "year": 2023,
+          "mileage_km": 70000,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2875155
+        },
+        {
+          "market": "china",
+          "source_id": "60122716",
+          "year": 2019,
+          "mileage_km": 47800,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2214246
+        },
+        {
+          "market": "china",
+          "source_id": "60122717",
+          "year": 2022,
+          "mileage_km": 26500,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 1684537
+        },
+        {
+          "market": "china",
+          "source_id": "60122728",
+          "year": 2022,
+          "mileage_km": 14000,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2045373
+        }
+      ],
+      "dm_keyword": "КРОССОВЕР"
+    },
+    {
+      "package_id": "daily-2026-10-09-1200-crossover-3m-vk-story-03",
+      "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 3,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "3294768fe505b1f001d2f9ee82b2322e7f952e95cb7583a0161fcb0a59af446e"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Jetta VS5 — свежий год и небольшой пробег среди вариантов подборки.",
+        "Jetta VS5",
+        "2023 год • 18 000 км",
+        "2 538 815 ₽ под ключ",
+        "кроссовер",
+        "бензин",
+        "Напишите КРОССОВЕР, бюджет и город в сообщения сообщества",
+        "3/8",
+        "Расчёт сайта на 08.10.2026; актуальная цена — перед заказом"
+      ],
+      "scheduled_at": "2026-10-09T12:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/d09c4945cfd69ad7be61e349377e7deb8febc5c7/covers/41a050a355543a6317e3a3d28342a40d171269668f066507c78e084adce0b976.jpg",
+        "sha256": "41a050a355543a6317e3a3d28342a40d171269668f066507c78e084adce0b976",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122851",
+          "year": 2023,
+          "mileage_km": 18000,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2538815
+        }
+      ],
+      "dm_keyword": "КРОССОВЕР"
+    },
+    {
+      "package_id": "daily-2026-10-09-1200-crossover-3m-vk-story-04",
+      "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 4,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "3294768fe505b1f001d2f9ee82b2322e7f952e95cb7583a0161fcb0a59af446e"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Volkswagen Tayron — свежий год, но самый большой пробег в этой пятёрке.",
+        "Volkswagen Tayron",
+        "2023 год • 70 000 км",
+        "2 875 155 ₽ под ключ",
+        "кроссовер",
+        "бензин",
+        "Рассматриваете Volkswagen Tayron? Напишите в ответ.",
+        "4/8",
+        "Расчёт сайта на 08.10.2026; актуальная цена — перед заказом",
+        "Напишите КРОССОВЕР, бюджет и город в сообщения сообщества"
+      ],
+      "scheduled_at": "2026-10-09T14:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/d09c4945cfd69ad7be61e349377e7deb8febc5c7/covers/706c55f8f3bed25800a5b17ea5703b23ce889ca914267cdba7053104b46eedf6.jpg",
+        "sha256": "706c55f8f3bed25800a5b17ea5703b23ce889ca914267cdba7053104b46eedf6",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122714",
+          "year": 2023,
+          "mileage_km": 70000,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2875155
+        }
+      ],
+      "dm_keyword": "КРОССОВЕР"
+    },
+    {
+      "package_id": "daily-2026-10-09-1200-crossover-3m-vk-story-05",
+      "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 5,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "3294768fe505b1f001d2f9ee82b2322e7f952e95cb7583a0161fcb0a59af446e"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Nissan Qashqai — самый возрастной вариант, дешевле двух свежих моделей.",
+        "Nissan Qashqai",
+        "2019 год • 47 800 км",
+        "2 214 246 ₽ под ключ",
+        "кроссовер",
+        "бензин",
+        "Напишите КРОССОВЕР, бюджет и город в сообщения сообщества",
+        "5/8",
+        "Расчёт сайта на 08.10.2026; актуальная цена — перед заказом"
+      ],
+      "scheduled_at": "2026-10-09T16:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/d09c4945cfd69ad7be61e349377e7deb8febc5c7/covers/23016dfc029669d24b3e9f5c09b8bcae188a58b3625c24fd7f1f9514cc4dba62.jpg",
+        "sha256": "23016dfc029669d24b3e9f5c09b8bcae188a58b3625c24fd7f1f9514cc4dba62",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122716",
+          "year": 2019,
+          "mileage_km": 47800,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2214246
+        }
+      ],
+      "dm_keyword": "КРОССОВЕР"
+    },
+    {
+      "package_id": "daily-2026-10-09-1200-crossover-3m-vk-story-06",
+      "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 6,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "3294768fe505b1f001d2f9ee82b2322e7f952e95cb7583a0161fcb0a59af446e"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Haval H6 — минимальная полная стоимость среди представленных кроссоверов.",
+        "Haval H6",
+        "2022 год • 26 500 км",
+        "1 684 537 ₽ под ключ",
+        "кроссовер",
+        "бензин",
+        "Выбрали бы Haval H6? Напишите в ответ.",
+        "6/8",
+        "Расчёт сайта на 08.10.2026; актуальная цена — перед заказом",
+        "Напишите КРОССОВЕР, бюджет и город в сообщения сообщества"
+      ],
+      "scheduled_at": "2026-10-09T18:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/d09c4945cfd69ad7be61e349377e7deb8febc5c7/covers/61648030a3d279dbd1d34b3df0cb75195f0e47f9f640a444e282bb6054b68cea.jpg",
+        "sha256": "61648030a3d279dbd1d34b3df0cb75195f0e47f9f640a444e282bb6054b68cea",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122717",
+          "year": 2022,
+          "mileage_km": 26500,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 1684537
+        }
+      ],
+      "dm_keyword": "КРОССОВЕР"
+    },
+    {
+      "package_id": "daily-2026-10-09-1200-crossover-3m-vk-story-07",
+      "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 7,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "3294768fe505b1f001d2f9ee82b2322e7f952e95cb7583a0161fcb0a59af446e"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Honda Vezel — самый маленький пробег и средняя позиция по полной цене.",
+        "Honda Vezel",
+        "2022 год • 14 000 км",
+        "2 045 373 ₽ под ключ",
+        "кроссовер",
+        "бензин",
+        "Напишите КРОССОВЕР, бюджет и город в сообщения сообщества",
+        "7/8",
+        "Расчёт сайта на 08.10.2026; актуальная цена — перед заказом"
+      ],
+      "scheduled_at": "2026-10-09T20:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/d09c4945cfd69ad7be61e349377e7deb8febc5c7/covers/44c118e36ad413ee70b0b2974fab3e3ee09a195913fa45ad02522f2356425804.jpg",
+        "sha256": "44c118e36ad413ee70b0b2974fab3e3ee09a195913fa45ad02522f2356425804",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122728",
+          "year": 2022,
+          "mileage_km": 14000,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2045373
+        }
+      ],
+      "dm_keyword": "КРОССОВЕР"
+    },
+    {
+      "package_id": "daily-2026-10-09-1200-crossover-3m-vk-story-08",
+      "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 8,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "daily-2026-10-09-1200-crossover-3m",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "3294768fe505b1f001d2f9ee82b2322e7f952e95cb7583a0161fcb0a59af446e"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Итог: все бензиновые и в одном кузове — выбирайте по бюджету, году и пробегу.",
+        "Какую машину выбираете?",
+        "Напишите КРОССОВЕР, бюджет и город в сообщения сообщества",
+        "8/8",
+        "Расчёт сайта на 08.10.2026; актуальная цена — перед заказом"
+      ],
+      "scheduled_at": "2026-10-09T21:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/d09c4945cfd69ad7be61e349377e7deb8febc5c7/covers/c89f702ed6f2a76ab559dba80cff939338ff7768ffe5bd53dd2b416d2af8bf90.jpg",
+        "sha256": "c89f702ed6f2a76ab559dba80cff939338ff7768ffe5bd53dd2b416d2af8bf90",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122851",
+          "year": 2023,
+          "mileage_km": 18000,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2538815
+        },
+        {
+          "market": "china",
+          "source_id": "60122714",
+          "year": 2023,
+          "mileage_km": 70000,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2875155
+        },
+        {
+          "market": "china",
+          "source_id": "60122716",
+          "year": 2019,
+          "mileage_km": 47800,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2214246
+        },
+        {
+          "market": "china",
+          "source_id": "60122717",
+          "year": 2022,
+          "mileage_km": 26500,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 1684537
+        },
+        {
+          "market": "china",
+          "source_id": "60122728",
+          "year": 2022,
+          "mileage_km": 14000,
+          "engine_type": "ICE_PETROL",
+          "total_rub": 2045373
+        }
+      ],
+      "dm_keyword": "КРОССОВЕР"
     }
   ]
 }
