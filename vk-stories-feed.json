@@ -1,0 +1,435 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "package_id": "ev-under-2m-20261008-vk-story-01",
+      "campaign_id": "ev-under-2m-20261008",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 1,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "ev-under-2m-20261008",
+        "evidence": "human-approved-daily-story-plan-20261008"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Пять электромобилей из Китая: выбираем по фактам",
+        "СЕГОДНЯ: ЭЛЕКТРИЧКИ ДО 2 МЛН ₽",
+        "5 вариантов из каталога ZMA",
+        "Напишите ЭЛЕКТРО, бюджет и город в сообщения сообщества",
+        "1/8",
+        "Расчёт сайта на 07.10.2026; актуальная цена — перед заказом"
+      ],
+      "scheduled_at": "2026-10-08T10:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/8fbf2bc78d4350475c866fe2e113cad6b64a40d56d222cbea8360a8cee01f494.jpg",
+        "sha256": "8fbf2bc78d4350475c866fe2e113cad6b64a40d56d222cbea8360a8cee01f494",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122189",
+          "year": 2024,
+          "mileage_km": 50000,
+          "engine_type": "EV",
+          "total_rub": 1259859
+        },
+        {
+          "market": "china",
+          "source_id": "60122130",
+          "year": 2023,
+          "mileage_km": 34100,
+          "engine_type": "EV",
+          "total_rub": 1422663
+        },
+        {
+          "market": "china",
+          "source_id": "60122475",
+          "year": 2023,
+          "mileage_km": 28200,
+          "engine_type": "EV",
+          "total_rub": 1458361
+        },
+        {
+          "market": "china",
+          "source_id": "60122508",
+          "year": 2024,
+          "mileage_km": 41000,
+          "engine_type": "EV",
+          "total_rub": 1539806
+        },
+        {
+          "market": "china",
+          "source_id": "60122471",
+          "year": 2025,
+          "mileage_km": 12600,
+          "engine_type": "EV",
+          "total_rub": 1677999
+        }
+      ]
+    },
+    {
+      "package_id": "ev-under-2m-20261008-vk-story-02",
+      "campaign_id": "ev-under-2m-20261008",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 2,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "ev-under-2m-20261008",
+        "evidence": "human-approved-daily-story-plan-20261008"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Что ближе: хэтчбек или кроссовер?",
+        "Хэтчбек или кроссовер?",
+        "Покажем оба варианта",
+        "Первая машина — в 12:00 МСК",
+        "Напишите ЭЛЕКТРО, бюджет и город в сообщения сообщества",
+        "2/8",
+        "Расчёт сайта на 07.10.2026; актуальная цена — перед заказом"
+      ],
+      "scheduled_at": "2026-10-08T10:15:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/9d6220d0cd3deec7b273adf692a2dfc2c67277d84e53082624822baa4a314b8c.jpg",
+        "sha256": "9d6220d0cd3deec7b273adf692a2dfc2c67277d84e53082624822baa4a314b8c",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122189",
+          "year": 2024,
+          "mileage_km": 50000,
+          "engine_type": "EV",
+          "total_rub": 1259859
+        },
+        {
+          "market": "china",
+          "source_id": "60122130",
+          "year": 2023,
+          "mileage_km": 34100,
+          "engine_type": "EV",
+          "total_rub": 1422663
+        },
+        {
+          "market": "china",
+          "source_id": "60122475",
+          "year": 2023,
+          "mileage_km": 28200,
+          "engine_type": "EV",
+          "total_rub": 1458361
+        },
+        {
+          "market": "china",
+          "source_id": "60122508",
+          "year": 2024,
+          "mileage_km": 41000,
+          "engine_type": "EV",
+          "total_rub": 1539806
+        },
+        {
+          "market": "china",
+          "source_id": "60122471",
+          "year": 2025,
+          "mileage_km": 12600,
+          "engine_type": "EV",
+          "total_rub": 1677999
+        }
+      ]
+    },
+    {
+      "package_id": "ev-under-2m-20261008-vk-story-03",
+      "campaign_id": "ev-under-2m-20261008",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 3,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "ev-under-2m-20261008",
+        "evidence": "human-approved-daily-story-plan-20261008"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Leapmotor T03 — самый доступный в этой подборке",
+        "Leapmotor T03",
+        "2024 год • 50 000 км",
+        "1 259 859 ₽ под ключ",
+        "Напишите ЭЛЕКТРО, бюджет и город в сообщения сообщества",
+        "3/8",
+        "Расчёт сайта на 07.10.2026; актуальная цена — перед заказом"
+      ],
+      "scheduled_at": "2026-10-08T12:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/3181d6982b16e60008a2da17d703527db51e859a630a798952c42b5155bcc090.jpg",
+        "sha256": "3181d6982b16e60008a2da17d703527db51e859a630a798952c42b5155bcc090",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122189",
+          "year": 2024,
+          "mileage_km": 50000,
+          "engine_type": "EV",
+          "total_rub": 1259859
+        }
+      ]
+    },
+    {
+      "package_id": "ev-under-2m-20261008-vk-story-04",
+      "campaign_id": "ev-under-2m-20261008",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 4,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "ev-under-2m-20261008",
+        "evidence": "human-approved-daily-story-plan-20261008"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Geometry E Firefly — единственный кроссовер среди пяти",
+        "Geely Geometry E Firefly",
+        "2023 год • 34 100 км",
+        "1 422 663 ₽ под ключ",
+        "Напишите ЭЛЕКТРО, бюджет и город в сообщения сообщества",
+        "4/8",
+        "Расчёт сайта на 07.10.2026; актуальная цена — перед заказом"
+      ],
+      "scheduled_at": "2026-10-08T14:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/1f7aff3edb2322926e6bf50c617014c620b1112464af474432e33235ca2631ce.jpg",
+        "sha256": "1f7aff3edb2322926e6bf50c617014c620b1112464af474432e33235ca2631ce",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122130",
+          "year": 2023,
+          "mileage_km": 34100,
+          "engine_type": "EV",
+          "total_rub": 1422663
+        }
+      ]
+    },
+    {
+      "package_id": "ev-under-2m-20261008-vk-story-05",
+      "campaign_id": "ev-under-2m-20261008",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 5,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "ev-under-2m-20261008",
+        "evidence": "human-approved-daily-story-plan-20261008"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Wuling Bingo — хэтчбек с другим дизайном",
+        "Wuling Motors Wuling Bingo",
+        "2023 год • 28 200 км",
+        "1 458 361 ₽ под ключ",
+        "Напишите ЭЛЕКТРО, бюджет и город в сообщения сообщества",
+        "5/8",
+        "Расчёт сайта на 07.10.2026; актуальная цена — перед заказом"
+      ],
+      "scheduled_at": "2026-10-08T16:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/dcf7f828c046aad43956e8ccb7abf64db5814792707bee1907864373a09a6a48.jpg",
+        "sha256": "dcf7f828c046aad43956e8ccb7abf64db5814792707bee1907864373a09a6a48",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122475",
+          "year": 2023,
+          "mileage_km": 28200,
+          "engine_type": "EV",
+          "total_rub": 1458361
+        }
+      ]
+    },
+    {
+      "package_id": "ev-under-2m-20261008-vk-story-06",
+      "campaign_id": "ev-under-2m-20261008",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 6,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "ev-under-2m-20261008",
+        "evidence": "human-approved-daily-story-plan-20261008"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "BYD Seagull — для тех, кто хочет именно BYD",
+        "BYD Seagull",
+        "2024 год • 41 000 км",
+        "1 539 806 ₽ под ключ",
+        "Напишите ЭЛЕКТРО, бюджет и город в сообщения сообщества",
+        "6/8",
+        "Расчёт сайта на 07.10.2026; актуальная цена — перед заказом"
+      ],
+      "scheduled_at": "2026-10-08T18:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/77bdc2105239a61f581da4be31e32e377701a1784e426d642d97447512dadd52.jpg",
+        "sha256": "77bdc2105239a61f581da4be31e32e377701a1784e426d642d97447512dadd52",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122508",
+          "year": 2024,
+          "mileage_km": 41000,
+          "engine_type": "EV",
+          "total_rub": 1539806
+        }
+      ]
+    },
+    {
+      "package_id": "ev-under-2m-20261008-vk-story-07",
+      "campaign_id": "ev-under-2m-20261008",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 7,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "ev-under-2m-20261008",
+        "evidence": "human-approved-daily-story-plan-20261008"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Starry Wish — самый свежий по году вариант",
+        "Geely Galaxy Starry Wish",
+        "2025 год • 12 600 км",
+        "1 677 999 ₽ под ключ",
+        "Напишите ЭЛЕКТРО, бюджет и город в сообщения сообщества",
+        "7/8",
+        "Расчёт сайта на 07.10.2026; актуальная цена — перед заказом"
+      ],
+      "scheduled_at": "2026-10-08T20:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/61b534d0241148445abbc88910c811f377db0b0c5fd76ea7b9721fbd351e28e1.jpg",
+        "sha256": "61b534d0241148445abbc88910c811f377db0b0c5fd76ea7b9721fbd351e28e1",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122471",
+          "year": 2025,
+          "mileage_km": 12600,
+          "engine_type": "EV",
+          "total_rub": 1677999
+        }
+      ]
+    },
+    {
+      "package_id": "ev-under-2m-20261008-vk-story-08",
+      "campaign_id": "ev-under-2m-20261008",
+      "platform": "vk",
+      "kind": "story",
+      "approved": true,
+      "story_index": 8,
+      "approval": {
+        "policy_version": "vk-stories-v1",
+        "campaign_id": "ev-under-2m-20261008",
+        "evidence": "human-approved-daily-story-plan-20261008"
+      },
+      "generation_provider": "server_codex_cli",
+      "visually_reviewed": true,
+      "text": [
+        "ZMA-АВТО",
+        "Что важнее: цена, год, пробег или кузов?",
+        "Какая из пяти вам ближе?",
+        "ЭЛЕКТРО + бюджет + город",
+        "Напишите ЭЛЕКТРО, бюджет и город в сообщения сообщества",
+        "8/8",
+        "Расчёт сайта на 07.10.2026; актуальная цена — перед заказом"
+      ],
+      "scheduled_at": "2026-10-08T21:00:00+03:00",
+      "image": {
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/50e8dc34f7a327bbf9a3d20520d60682f687ced7b428cb66958129bd71992eb7.jpg",
+        "sha256": "50e8dc34f7a327bbf9a3d20520d60682f687ced7b428cb66958129bd71992eb7",
+        "width": 1080,
+        "height": 1920
+      },
+      "facts": [
+        {
+          "market": "china",
+          "source_id": "60122189",
+          "year": 2024,
+          "mileage_km": 50000,
+          "engine_type": "EV",
+          "total_rub": 1259859
+        },
+        {
+          "market": "china",
+          "source_id": "60122130",
+          "year": 2023,
+          "mileage_km": 34100,
+          "engine_type": "EV",
+          "total_rub": 1422663
+        },
+        {
+          "market": "china",
+          "source_id": "60122475",
+          "year": 2023,
+          "mileage_km": 28200,
+          "engine_type": "EV",
+          "total_rub": 1458361
+        },
+        {
+          "market": "china",
+          "source_id": "60122508",
+          "year": 2024,
+          "mileage_km": 41000,
+          "engine_type": "EV",
+          "total_rub": 1539806
+        },
+        {
+          "market": "china",
+          "source_id": "60122471",
+          "year": 2025,
+          "mileage_km": 12600,
+          "engine_type": "EV",
+          "total_rub": 1677999
+        }
+      ]
+    }
+  ]
+}
