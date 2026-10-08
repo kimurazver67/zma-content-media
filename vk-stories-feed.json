@@ -2,15 +2,15 @@
   "schema_version": 1,
   "items": [
     {
-      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-01",
-      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+      "package_id": "ev-under-2m-20261008-vkr-e8e5c44a0767-vk-story-01",
+      "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 1,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
         "evidence": "reviewed-daily-story-source",
         "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
@@ -27,7 +27,7 @@
       ],
       "scheduled_at": "2026-10-08T10:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/8fbf2bc78d4350475c866fe2e113cad6b64a40d56d222cbea8360a8cee01f494.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/8c9b202930ac77c44fd3f6e831c8df1ad9cecf43/covers/8fbf2bc78d4350475c866fe2e113cad6b64a40d56d222cbea8360a8cee01f494.jpg",
         "sha256": "8fbf2bc78d4350475c866fe2e113cad6b64a40d56d222cbea8360a8cee01f494",
         "width": 1080,
         "height": 1920
@@ -39,7 +39,9 @@
           "year": 2024,
           "mileage_km": 50000,
           "engine_type": "EV",
-          "total_rub": 1259859
+          "total_rub": 1259859,
+          "calculated_at": "2026-10-07T16:12:17.424Z",
+          "rates_stale": true
         },
         {
           "market": "china",
@@ -47,7 +49,9 @@
           "year": 2023,
           "mileage_km": 34100,
           "engine_type": "EV",
-          "total_rub": 1422663
+          "total_rub": 1422663,
+          "calculated_at": "2026-10-07T16:10:03.117Z",
+          "rates_stale": true
         },
         {
           "market": "china",
@@ -55,7 +59,9 @@
           "year": 2023,
           "mileage_km": 28200,
           "engine_type": "EV",
-          "total_rub": 1458361
+          "total_rub": 1458361,
+          "calculated_at": "2026-10-07T16:18:03.208Z",
+          "rates_stale": true
         },
         {
           "market": "china",
@@ -63,7 +69,9 @@
           "year": 2024,
           "mileage_km": 41000,
           "engine_type": "EV",
-          "total_rub": 1539806
+          "total_rub": 1539806,
+          "calculated_at": "2026-10-07T16:18:52.630Z",
+          "rates_stale": true
         },
         {
           "market": "china",
@@ -71,21 +79,23 @@
           "year": 2025,
           "mileage_km": 12600,
           "engine_type": "EV",
-          "total_rub": 1677999
+          "total_rub": 1677999,
+          "calculated_at": "2026-10-07T16:18:03.208Z",
+          "rates_stale": true
         }
       ],
       "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-02",
-      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+      "package_id": "ev-under-2m-20261008-vkr-e8e5c44a0767-vk-story-02",
+      "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 2,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
         "evidence": "reviewed-daily-story-source",
         "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
@@ -103,8 +113,8 @@
       ],
       "scheduled_at": "2026-10-08T10:15:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/c5979d0847843425cc88969a954794a66868d3f1bf22864e73225c3e996e80ee.jpg",
-        "sha256": "c5979d0847843425cc88969a954794a66868d3f1bf22864e73225c3e996e80ee",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/8c9b202930ac77c44fd3f6e831c8df1ad9cecf43/covers/13737e77b0f853b0584e2692702dd8a194521a8c5c76ae98b01fb46c8b0413aa.jpg",
+        "sha256": "13737e77b0f853b0584e2692702dd8a194521a8c5c76ae98b01fb46c8b0413aa",
         "width": 1080,
         "height": 1920
       },
@@ -115,7 +125,9 @@
           "year": 2024,
           "mileage_km": 50000,
           "engine_type": "EV",
-          "total_rub": 1259859
+          "total_rub": 1259859,
+          "calculated_at": "2026-10-07T16:12:17.424Z",
+          "rates_stale": true
         },
         {
           "market": "china",
@@ -123,7 +135,9 @@
           "year": 2023,
           "mileage_km": 34100,
           "engine_type": "EV",
-          "total_rub": 1422663
+          "total_rub": 1422663,
+          "calculated_at": "2026-10-07T16:10:03.117Z",
+          "rates_stale": true
         },
         {
           "market": "china",
@@ -131,7 +145,9 @@
           "year": 2023,
           "mileage_km": 28200,
           "engine_type": "EV",
-          "total_rub": 1458361
+          "total_rub": 1458361,
+          "calculated_at": "2026-10-07T16:18:03.208Z",
+          "rates_stale": true
         },
         {
           "market": "china",
@@ -139,7 +155,9 @@
           "year": 2024,
           "mileage_km": 41000,
           "engine_type": "EV",
-          "total_rub": 1539806
+          "total_rub": 1539806,
+          "calculated_at": "2026-10-07T16:18:52.630Z",
+          "rates_stale": true
         },
         {
           "market": "china",
@@ -147,21 +165,23 @@
           "year": 2025,
           "mileage_km": 12600,
           "engine_type": "EV",
-          "total_rub": 1677999
+          "total_rub": 1677999,
+          "calculated_at": "2026-10-07T16:18:03.208Z",
+          "rates_stale": true
         }
       ],
       "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-03",
-      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+      "package_id": "ev-under-2m-20261008-vkr-e8e5c44a0767-vk-story-03",
+      "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 3,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
         "evidence": "reviewed-daily-story-source",
         "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
@@ -179,7 +199,7 @@
       ],
       "scheduled_at": "2026-10-08T12:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/3181d6982b16e60008a2da17d703527db51e859a630a798952c42b5155bcc090.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/8c9b202930ac77c44fd3f6e831c8df1ad9cecf43/covers/3181d6982b16e60008a2da17d703527db51e859a630a798952c42b5155bcc090.jpg",
         "sha256": "3181d6982b16e60008a2da17d703527db51e859a630a798952c42b5155bcc090",
         "width": 1080,
         "height": 1920
@@ -191,21 +211,23 @@
           "year": 2024,
           "mileage_km": 50000,
           "engine_type": "EV",
-          "total_rub": 1259859
+          "total_rub": 1259859,
+          "calculated_at": "2026-10-07T16:12:17.424Z",
+          "rates_stale": true
         }
       ],
       "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-04",
-      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+      "package_id": "ev-under-2m-20261008-vkr-e8e5c44a0767-vk-story-04",
+      "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 4,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
         "evidence": "reviewed-daily-story-source",
         "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
@@ -223,7 +245,7 @@
       ],
       "scheduled_at": "2026-10-08T14:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/1f7aff3edb2322926e6bf50c617014c620b1112464af474432e33235ca2631ce.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/8c9b202930ac77c44fd3f6e831c8df1ad9cecf43/covers/1f7aff3edb2322926e6bf50c617014c620b1112464af474432e33235ca2631ce.jpg",
         "sha256": "1f7aff3edb2322926e6bf50c617014c620b1112464af474432e33235ca2631ce",
         "width": 1080,
         "height": 1920
@@ -235,21 +257,23 @@
           "year": 2023,
           "mileage_km": 34100,
           "engine_type": "EV",
-          "total_rub": 1422663
+          "total_rub": 1422663,
+          "calculated_at": "2026-10-07T16:10:03.117Z",
+          "rates_stale": true
         }
       ],
       "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-05",
-      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+      "package_id": "ev-under-2m-20261008-vkr-e8e5c44a0767-vk-story-05",
+      "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 5,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
         "evidence": "reviewed-daily-story-source",
         "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
@@ -267,7 +291,7 @@
       ],
       "scheduled_at": "2026-10-08T16:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/dcf7f828c046aad43956e8ccb7abf64db5814792707bee1907864373a09a6a48.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/8c9b202930ac77c44fd3f6e831c8df1ad9cecf43/covers/dcf7f828c046aad43956e8ccb7abf64db5814792707bee1907864373a09a6a48.jpg",
         "sha256": "dcf7f828c046aad43956e8ccb7abf64db5814792707bee1907864373a09a6a48",
         "width": 1080,
         "height": 1920
@@ -279,21 +303,23 @@
           "year": 2023,
           "mileage_km": 28200,
           "engine_type": "EV",
-          "total_rub": 1458361
+          "total_rub": 1458361,
+          "calculated_at": "2026-10-07T16:18:03.208Z",
+          "rates_stale": true
         }
       ],
       "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-06",
-      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+      "package_id": "ev-under-2m-20261008-vkr-e8e5c44a0767-vk-story-06",
+      "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 6,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
         "evidence": "reviewed-daily-story-source",
         "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
@@ -311,7 +337,7 @@
       ],
       "scheduled_at": "2026-10-08T18:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/77bdc2105239a61f581da4be31e32e377701a1784e426d642d97447512dadd52.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/8c9b202930ac77c44fd3f6e831c8df1ad9cecf43/covers/77bdc2105239a61f581da4be31e32e377701a1784e426d642d97447512dadd52.jpg",
         "sha256": "77bdc2105239a61f581da4be31e32e377701a1784e426d642d97447512dadd52",
         "width": 1080,
         "height": 1920
@@ -323,21 +349,23 @@
           "year": 2024,
           "mileage_km": 41000,
           "engine_type": "EV",
-          "total_rub": 1539806
+          "total_rub": 1539806,
+          "calculated_at": "2026-10-07T16:18:52.630Z",
+          "rates_stale": true
         }
       ],
       "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-07",
-      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+      "package_id": "ev-under-2m-20261008-vkr-e8e5c44a0767-vk-story-07",
+      "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 7,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
         "evidence": "reviewed-daily-story-source",
         "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
@@ -355,7 +383,7 @@
       ],
       "scheduled_at": "2026-10-08T20:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/61b534d0241148445abbc88910c811f377db0b0c5fd76ea7b9721fbd351e28e1.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/8c9b202930ac77c44fd3f6e831c8df1ad9cecf43/covers/61b534d0241148445abbc88910c811f377db0b0c5fd76ea7b9721fbd351e28e1.jpg",
         "sha256": "61b534d0241148445abbc88910c811f377db0b0c5fd76ea7b9721fbd351e28e1",
         "width": 1080,
         "height": 1920
@@ -367,21 +395,23 @@
           "year": 2025,
           "mileage_km": 12600,
           "engine_type": "EV",
-          "total_rub": 1677999
+          "total_rub": 1677999,
+          "calculated_at": "2026-10-07T16:18:03.208Z",
+          "rates_stale": true
         }
       ],
       "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-08",
-      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+      "package_id": "ev-under-2m-20261008-vkr-e8e5c44a0767-vk-story-08",
+      "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 8,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "campaign_id": "ev-under-2m-20261008-vkr-e8e5c44a0767",
         "evidence": "reviewed-daily-story-source",
         "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
@@ -398,7 +428,7 @@
       ],
       "scheduled_at": "2026-10-08T21:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/50e8dc34f7a327bbf9a3d20520d60682f687ced7b428cb66958129bd71992eb7.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/8c9b202930ac77c44fd3f6e831c8df1ad9cecf43/covers/50e8dc34f7a327bbf9a3d20520d60682f687ced7b428cb66958129bd71992eb7.jpg",
         "sha256": "50e8dc34f7a327bbf9a3d20520d60682f687ced7b428cb66958129bd71992eb7",
         "width": 1080,
         "height": 1920
@@ -410,7 +440,9 @@
           "year": 2024,
           "mileage_km": 50000,
           "engine_type": "EV",
-          "total_rub": 1259859
+          "total_rub": 1259859,
+          "calculated_at": "2026-10-07T16:12:17.424Z",
+          "rates_stale": true
         },
         {
           "market": "china",
@@ -418,7 +450,9 @@
           "year": 2023,
           "mileage_km": 34100,
           "engine_type": "EV",
-          "total_rub": 1422663
+          "total_rub": 1422663,
+          "calculated_at": "2026-10-07T16:10:03.117Z",
+          "rates_stale": true
         },
         {
           "market": "china",
@@ -426,7 +460,9 @@
           "year": 2023,
           "mileage_km": 28200,
           "engine_type": "EV",
-          "total_rub": 1458361
+          "total_rub": 1458361,
+          "calculated_at": "2026-10-07T16:18:03.208Z",
+          "rates_stale": true
         },
         {
           "market": "china",
@@ -434,7 +470,9 @@
           "year": 2024,
           "mileage_km": 41000,
           "engine_type": "EV",
-          "total_rub": 1539806
+          "total_rub": 1539806,
+          "calculated_at": "2026-10-07T16:18:52.630Z",
+          "rates_stale": true
         },
         {
           "market": "china",
@@ -442,7 +480,9 @@
           "year": 2025,
           "mileage_km": 12600,
           "engine_type": "EV",
-          "total_rub": 1677999
+          "total_rub": 1677999,
+          "calculated_at": "2026-10-07T16:18:03.208Z",
+          "rates_stale": true
         }
       ],
       "source_campaign_id": "ev-under-2m-20261008"
