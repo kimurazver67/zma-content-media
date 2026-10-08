@@ -2,16 +2,17 @@
   "schema_version": 1,
   "items": [
     {
-      "package_id": "ev-under-2m-20261008-vk-story-01",
-      "campaign_id": "ev-under-2m-20261008",
+      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-01",
+      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 1,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008",
-        "evidence": "human-approved-daily-story-plan-20261008"
+        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
       "generation_provider": "server_codex_cli",
       "visually_reviewed": true,
@@ -26,7 +27,7 @@
       ],
       "scheduled_at": "2026-10-08T10:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/8fbf2bc78d4350475c866fe2e113cad6b64a40d56d222cbea8360a8cee01f494.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/8fbf2bc78d4350475c866fe2e113cad6b64a40d56d222cbea8360a8cee01f494.jpg",
         "sha256": "8fbf2bc78d4350475c866fe2e113cad6b64a40d56d222cbea8360a8cee01f494",
         "width": 1080,
         "height": 1920
@@ -72,19 +73,21 @@
           "engine_type": "EV",
           "total_rub": 1677999
         }
-      ]
+      ],
+      "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vk-story-02",
-      "campaign_id": "ev-under-2m-20261008",
+      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-02",
+      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 2,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008",
-        "evidence": "human-approved-daily-story-plan-20261008"
+        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
       "generation_provider": "server_codex_cli",
       "visually_reviewed": true,
@@ -100,8 +103,8 @@
       ],
       "scheduled_at": "2026-10-08T10:15:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/9d6220d0cd3deec7b273adf692a2dfc2c67277d84e53082624822baa4a314b8c.jpg",
-        "sha256": "9d6220d0cd3deec7b273adf692a2dfc2c67277d84e53082624822baa4a314b8c",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/c5979d0847843425cc88969a954794a66868d3f1bf22864e73225c3e996e80ee.jpg",
+        "sha256": "c5979d0847843425cc88969a954794a66868d3f1bf22864e73225c3e996e80ee",
         "width": 1080,
         "height": 1920
       },
@@ -146,19 +149,21 @@
           "engine_type": "EV",
           "total_rub": 1677999
         }
-      ]
+      ],
+      "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vk-story-03",
-      "campaign_id": "ev-under-2m-20261008",
+      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-03",
+      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 3,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008",
-        "evidence": "human-approved-daily-story-plan-20261008"
+        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
       "generation_provider": "server_codex_cli",
       "visually_reviewed": true,
@@ -174,7 +179,7 @@
       ],
       "scheduled_at": "2026-10-08T12:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/3181d6982b16e60008a2da17d703527db51e859a630a798952c42b5155bcc090.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/3181d6982b16e60008a2da17d703527db51e859a630a798952c42b5155bcc090.jpg",
         "sha256": "3181d6982b16e60008a2da17d703527db51e859a630a798952c42b5155bcc090",
         "width": 1080,
         "height": 1920
@@ -188,19 +193,21 @@
           "engine_type": "EV",
           "total_rub": 1259859
         }
-      ]
+      ],
+      "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vk-story-04",
-      "campaign_id": "ev-under-2m-20261008",
+      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-04",
+      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 4,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008",
-        "evidence": "human-approved-daily-story-plan-20261008"
+        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
       "generation_provider": "server_codex_cli",
       "visually_reviewed": true,
@@ -216,7 +223,7 @@
       ],
       "scheduled_at": "2026-10-08T14:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/1f7aff3edb2322926e6bf50c617014c620b1112464af474432e33235ca2631ce.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/1f7aff3edb2322926e6bf50c617014c620b1112464af474432e33235ca2631ce.jpg",
         "sha256": "1f7aff3edb2322926e6bf50c617014c620b1112464af474432e33235ca2631ce",
         "width": 1080,
         "height": 1920
@@ -230,19 +237,21 @@
           "engine_type": "EV",
           "total_rub": 1422663
         }
-      ]
+      ],
+      "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vk-story-05",
-      "campaign_id": "ev-under-2m-20261008",
+      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-05",
+      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 5,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008",
-        "evidence": "human-approved-daily-story-plan-20261008"
+        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
       "generation_provider": "server_codex_cli",
       "visually_reviewed": true,
@@ -258,7 +267,7 @@
       ],
       "scheduled_at": "2026-10-08T16:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/dcf7f828c046aad43956e8ccb7abf64db5814792707bee1907864373a09a6a48.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/dcf7f828c046aad43956e8ccb7abf64db5814792707bee1907864373a09a6a48.jpg",
         "sha256": "dcf7f828c046aad43956e8ccb7abf64db5814792707bee1907864373a09a6a48",
         "width": 1080,
         "height": 1920
@@ -272,19 +281,21 @@
           "engine_type": "EV",
           "total_rub": 1458361
         }
-      ]
+      ],
+      "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vk-story-06",
-      "campaign_id": "ev-under-2m-20261008",
+      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-06",
+      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 6,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008",
-        "evidence": "human-approved-daily-story-plan-20261008"
+        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
       "generation_provider": "server_codex_cli",
       "visually_reviewed": true,
@@ -300,7 +311,7 @@
       ],
       "scheduled_at": "2026-10-08T18:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/77bdc2105239a61f581da4be31e32e377701a1784e426d642d97447512dadd52.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/77bdc2105239a61f581da4be31e32e377701a1784e426d642d97447512dadd52.jpg",
         "sha256": "77bdc2105239a61f581da4be31e32e377701a1784e426d642d97447512dadd52",
         "width": 1080,
         "height": 1920
@@ -314,19 +325,21 @@
           "engine_type": "EV",
           "total_rub": 1539806
         }
-      ]
+      ],
+      "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vk-story-07",
-      "campaign_id": "ev-under-2m-20261008",
+      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-07",
+      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 7,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008",
-        "evidence": "human-approved-daily-story-plan-20261008"
+        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
       "generation_provider": "server_codex_cli",
       "visually_reviewed": true,
@@ -342,7 +355,7 @@
       ],
       "scheduled_at": "2026-10-08T20:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/61b534d0241148445abbc88910c811f377db0b0c5fd76ea7b9721fbd351e28e1.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/61b534d0241148445abbc88910c811f377db0b0c5fd76ea7b9721fbd351e28e1.jpg",
         "sha256": "61b534d0241148445abbc88910c811f377db0b0c5fd76ea7b9721fbd351e28e1",
         "width": 1080,
         "height": 1920
@@ -356,19 +369,21 @@
           "engine_type": "EV",
           "total_rub": 1677999
         }
-      ]
+      ],
+      "source_campaign_id": "ev-under-2m-20261008"
     },
     {
-      "package_id": "ev-under-2m-20261008-vk-story-08",
-      "campaign_id": "ev-under-2m-20261008",
+      "package_id": "ev-under-2m-20261008-vkr-47c64362cc9b-vk-story-08",
+      "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
       "platform": "vk",
       "kind": "story",
       "approved": true,
       "story_index": 8,
       "approval": {
         "policy_version": "vk-stories-v1",
-        "campaign_id": "ev-under-2m-20261008",
-        "evidence": "human-approved-daily-story-plan-20261008"
+        "campaign_id": "ev-under-2m-20261008-vkr-47c64362cc9b",
+        "evidence": "reviewed-daily-story-source",
+        "source_approval_sha256": "358c185e30f9fdeeb5a46bf5209b4e5c31a02e260d30ecdb9772c153daf12a63"
       },
       "generation_provider": "server_codex_cli",
       "visually_reviewed": true,
@@ -383,7 +398,7 @@
       ],
       "scheduled_at": "2026-10-08T21:00:00+03:00",
       "image": {
-        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/3245aea8d3fac7a3b75d5e93f93e3a507a3ad4bf/covers/50e8dc34f7a327bbf9a3d20520d60682f687ced7b428cb66958129bd71992eb7.jpg",
+        "url": "https://raw.githubusercontent.com/kimurazver67/zma-content-media/cb473ff3599c49f429385865de53657b661ae60e/covers/50e8dc34f7a327bbf9a3d20520d60682f687ced7b428cb66958129bd71992eb7.jpg",
         "sha256": "50e8dc34f7a327bbf9a3d20520d60682f687ced7b428cb66958129bd71992eb7",
         "width": 1080,
         "height": 1920
@@ -429,7 +444,8 @@
           "engine_type": "EV",
           "total_rub": 1677999
         }
-      ]
+      ],
+      "source_campaign_id": "ev-under-2m-20261008"
     },
     {
       "package_id": "daily-2026-10-09-1200-crossover-3m-vk-story-01",
